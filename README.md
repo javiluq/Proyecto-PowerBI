@@ -1,5 +1,5 @@
-# Practica-PowerBI
-Práctica de Power BI
+# Proyecto-PowerBI
+Proyecto de Power BI
 
 Contexto:
 Este dataset es de 1988 y consiste en cuatro bases de datos de Cleveland, Hungary, Switzerland y Long Beach. Lo he encontrado en Kaggle, y muestra los datos de enfermedades relacionadas con el corazón en hombres y mujeres de entre 29 y 77 años en una muestra de 303 individuos.
